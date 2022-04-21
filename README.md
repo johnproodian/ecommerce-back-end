@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End
 
 This application is the back end for mock e-commerce site. 
 
