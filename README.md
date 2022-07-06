@@ -1,6 +1,6 @@
 # E-commerce Back End
 
-This application is the back end for mock e-commerce site. 
+This application is the back end for a mock e-commerce site. 
 
 The purpose of this challenge was to take a working Express.js API and configure it to use Sequelize to interact with a MySQL database. 
 
