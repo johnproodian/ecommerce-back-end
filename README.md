@@ -12,6 +12,7 @@ The following linked videos use Insomnia to demonstrate how to use all the route
 
 ## Built With
 * JavaScript
+* Node.js
 * SQL/MySQL
 * Sequelize
 * Express.js
