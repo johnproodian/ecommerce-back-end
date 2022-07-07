@@ -12,13 +12,14 @@ The following linked videos use Insomnia to demonstrate how to use all the route
 
 ## Built With
 * JavaScript
-* MySQL
+* SQL/MySQL
+* Sequelize
 * Express.js
 
 ## (Recently Learned) Skills I Used
-* configuring Sequelize in a Node.js application
-* creating models for categories, products, and tags in a relational database, using a table to connect the product and tag models
-* implementing CRUD methods
-* using Sequelize to interact with models in each API endpoint 
-* creating and implementing Sequelize associations to join tables
-* using environment variables to protect sensitive data
+* Configuring Sequelize in a Node.js application
+* Creating models for categories, products, and tags in a relational database, using a table to connect the product and tag models
+* Implementing CRUD methods
+* Using Sequelize to interact with models in each API endpoint 
+* Creating and implementing Sequelize associations to join tables
+* Using environment variables to protect sensitive data
